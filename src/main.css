@@ -1,0 +1,16 @@
+body{
+    background-color: #f4f4f4;
+}
+
+h1{
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.logo{
+    width: 150px;
+    height: auto;
+    text-align: center;
+    margin: 70px auto 50px;
+    display: block;
+}
